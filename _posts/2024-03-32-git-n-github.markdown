@@ -55,8 +55,7 @@ Some of the things in Rocket Tech's Account will be:<br>
         <p>Advisor &amp; Mentor</p>
         <a href="https://www.linkedin.com/in/carter-hinsley-68a49216a/" target="_blank"><img class="social" src="/assets/pages/about/LinkedIn icon.png" alt="LinkedIn"></a>
         <a href="https://github.com/hinsley" target="_blank"><img class="social" src="/assets/pages/about/GitHub icon.png" alt="GitHub"></a>
-    </div>
-
+</div>
   
 | rocket-tech-GSU/HPR_LVL1:      | rocke-tech-gsu/GroupProject_1: |
 | ----------- | ----------- |
