@@ -41,12 +41,14 @@ To begin, you first need to have certain things in your computer:
   <img src="../assets/pages/git/image copy.png" alt="Image 2">
 </div> -->
 
+
+
 <div>
-  <img class="limit" src="../assets/pages/git/image copy 2.png" style="margin-right:10px;"><br>
+  <img class="limit" src="/assets/pages/git/image copy 2.png" style="margin-right:10px;"><br>
 </div>
 Some of the things in Rocket Tech's Account will be:<br>
 <div>
-  <img class ="limit" src="../assets/pages/git/image copy 3.png" style="margin-right:10px;">
+  <img class ="limit" src="/assets/pages/git/image copy 3.png" style="margin-right:10px;">
 </div>
 
 <div class="team-member">
